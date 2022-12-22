@@ -39,3 +39,7 @@ Architecture: 64 Bit
 Credit: griffpatch And thaepicguys
 
 Download buybuild.exe And Open To Install And After Your Done 
+
+Website https://wuzzlescgs.wixsite.com/buybuild
+
+Discord Server: https://discord.gg/4zG25JnFAQ
